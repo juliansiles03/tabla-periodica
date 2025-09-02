@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# freeCodeCamp periodic_table project
+# Keep output formatting EXACTLY as required by tests
 # element.sh - freeCodeCamp Periodic Table
 
 PSQL="psql --username=freecodecamp --dbname=periodic_table -t --no-align -c"
